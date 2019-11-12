@@ -141,6 +141,10 @@ h4 {
 h5 {
   font-size: 1em; }
 
+post p {
+  padding-left: 0px;
+}
+
 p {
   margin-bottom: 10px;
   margin-top: 5px;

@@ -723,7 +723,7 @@ img::-moz-selection {
     display: inline-block;
     margin-right: 0px;
     padding: 5px 5px 5px 5px;
-    font-size: .6em;
+    font-size: .8em;
     text-shadow: none;
     color: #BF1827;
   }
@@ -738,7 +738,7 @@ img::-moz-selection {
     position: relative;
     width: 100%;
     border-color: #666;
-    color: #666;
+    color: #999;
     /*opacity: .8; */
   }
 

@@ -144,6 +144,7 @@ h5 {
 .post p {
   padding-left: 0px;
   font-size: 16px;
+  font-weight: 700;
   color: #404040;
 }
 
@@ -354,7 +355,7 @@ img::-moz-selection {
   }
 
   .excerpt {
-    border-left: 3px solid #12B2F8; 
+    border-left: 3px solid #12f883; 
     margin: 0;
     margin-right: 10px;
     font-size: .9em;

@@ -1,28 +1,27 @@
 # Basic
-title: 潘柏信
+title: 黄泽彬
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: zebinh
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Java
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: zebinh
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: zebinh
     # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    juejin: 5d72393bf265da038f48312e
+    jianshu: ed7ec68c9e0e
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: huangzebin427@gmail.com
 
 
 # 百度统计 

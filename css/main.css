@@ -143,12 +143,14 @@ h5 {
 
 .post p {
   padding-left: 0px;
+  font-size: 16px;
+  color: #404040;
 }
 
 p {
-  margin-bottom: 10px;
+  margin-bottom: 1.2em;
   margin-top: 5px;
-  line-height: 1.7em; 
+  line-height: 1.4em; 
   padding-left: 20px;
 }
 

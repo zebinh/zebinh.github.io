@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C程序设计语言
+title: C程序设计语言-美-里奇-C语言之父-机械工业出版社
 date: 2020-01-01
 tags: 读书
 ---

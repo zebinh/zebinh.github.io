@@ -7,7 +7,7 @@ title: 友链其他
 
 ## 友情链接
 
-+ [我的掘金](https://juejin.im/user/5d72393bf265da038f48312e)
++ [mghio](https://www.mghio.cn/)
 
 {% include comments.html %}
 
